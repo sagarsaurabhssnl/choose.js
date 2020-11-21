@@ -1,0 +1,17 @@
+body {
+    background-image: url(back.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+label ,p{
+    align-content: top;
+    font-family: "OCR A Std", monospace;
+    font-size: larger;
+    margin: 20;
+}
+
+h1{
+    display: none;
+  }
